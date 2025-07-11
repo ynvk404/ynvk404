@@ -1,5 +1,4 @@
-<h1 align="center">👾 nh0kt1g3r12</h1>
-<h3 align="center">DFIR | Malware Analysis | Threat Intelligence </h3>
+<h1 align="center">👾 youngnvk </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=h4t3p1ckl3s&label=Profile%20views&color=0e75b6&style=flat" alt="nh0kt1g3r12" /> </p>
 <img align="right" alt="Hacking" width="465" src="https://giffiles.alphacoders.com/174/1744.gif"
 <div align="center">
@@ -25,9 +24,10 @@
 <tr>
 <td>
 
-🎓 I'm a sophomore majoring in Information Security at PTIT-HCM  
-🔭 I'm currently working on: DFIR, Malware Analysis, Threat Intelligence and Blue Team concepts  
-⚡ Fun fact about me: I like sporty activities, and martial arts. Btw I do OSINT in my freetime especially SOCMint :3 
+🎓 I am currently a sophomore majoring in Information Security at the Academy of Cryptography Techniques  
+🔭 I am focusing on Penetration Testing, Vulnerability Assessment, and Network Security Analysis  
+⚡ In my free time, I enjoy playing video games, rapping, and watching movies
+
 
 </td>
 <td>
