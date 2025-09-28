@@ -122,13 +122,14 @@
   </a>
   
   <a href="https://tryhackme.com/p/ynvk404" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/tryhackme/default.svg" width="52" height="40" alt="tryhackme logo" />
+    <img src="https://tryhackme-badges.s3.amazonaws.com/badge.svg" width="120" height="40" alt="tryhackme logo" />
   </a>
   
   <a href="https://www.topcv.vn/xem-cv/D1oCAFUAAQNSXQdXU1BVAAVbBwRRAlUAVAIGUw07dd" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Logo_TopCV_no_slogan.png" width="52" height="40" alt="TopCV logo" />
+    <img src="https://img.icons8.com/?size=512&id=117561&format=png" width="52" height="40" alt="TopCV logo" />
   </a>
 </div>
+
 
 ###
 
