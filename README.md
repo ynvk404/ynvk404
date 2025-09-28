@@ -163,3 +163,22 @@
 
 
 ###
+<div align="center">
+  <h2>🎵 Now Playing</h2>
+  <a href="https://open.spotify.com/playlist/37i9dQZF1DX5q67ZpWyRrZ" target="_blank">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31eq...&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify" />
+  </a>
+</div>
+
+###
+<h2 align="center">🎶 Favourite Song</h2>
+
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=s7Qe7OJvgOU&list=RDs7Qe7OJvgOU&start_radio=1" target="_blank">
+    <img src="https://img.youtube.com/vi/s7Qe7OJvgOU/maxresdefault.jpg" 
+         width="480" 
+         alt="Favourite Song on YouTube" 
+         style="border-radius:12px; box-shadow:0 4px 15px rgba(0,0,0,0.4);" />
+  </a>
+  <p><i>Click the image to listen on YouTube</i></p>
+</div>
