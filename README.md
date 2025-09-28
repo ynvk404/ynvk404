@@ -1,5 +1,13 @@
 <h1 align="center">Welcome to my GitHub Profile!</h1>
 
+<div align="center">
+  <!-- Badges -->
+  <img src="https://komarev.com/ghpvc/?username=ynvk404&label=Profile%20Views&color=4CAF50&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/ynvk404?label=Followers&style=social" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/ynvk404?label=Stars&style=social" alt="GitHub stars" />
+</div>
+
+<br>
 
 <div align="center">
   <img 
@@ -9,9 +17,6 @@
     style="border-radius:50%; border:4px solid #4CAF50; box-shadow:0 0 20px rgba(76,175,80,0.8); background-color:#111; padding:5px;" 
   />
 </div>
-
-
-
 
 ###
 
@@ -132,11 +137,7 @@
   <a href="https://tryhackme.com/p/ynvk404" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/tryhackme/default.svg" width="52" height="40" alt="tryhackme logo" />
   </a>
-  </a>
 </div>
-
-
-
 
 ###
 
@@ -144,12 +145,10 @@
 
 ###
 
-<div align="center">
+<div align="center" class="stats">
   <img src="https://github-readme-stats.vercel.app/api?username=ynvk404&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ynvk404&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
-
-###
 
 ###
 
@@ -161,8 +160,8 @@
   </picture>
 </div>
 
-
 ###
+
 <h2 align="center">🎶 Favourite Song</h2>
 
 <div align="center">
@@ -175,11 +174,16 @@
   <p><i>Click the image to listen on YouTube</i></p>
 </div>
 
-###
+---
+
+<!-- Motto -->
+<div align="center">
+  <i>"Hack the planet, secure the future."</i>
+</div>
+
 ---
 
 <div align="center">
   <p>💻 Crafted with passion for <b>Cybersecurity & Penetration Testing</b></p>
   <p>© 2025 Nguyen Van Khai | 📍 Ha Noi</p>
 </div>
-
