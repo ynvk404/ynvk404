@@ -144,5 +144,4 @@
   <img alt="Snake animation" src="https://raw.githubusercontent.com/ynvk404/ynvk404/output/snake.svg">
 </picture>
 
-
 ###
