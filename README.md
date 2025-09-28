@@ -1,5 +1,7 @@
 <h1 align="center">Welcome to my GitHub Profile!</h1>
-<h1 align="center">Exploit. Secure. Repeat.</h1>
+<div align="center">
+  <i>⚡ Exploit. Secure. Repeat. ⚡</i>
+</div>
 <div align="center">
   <!-- Badges -->
   <img src="https://komarev.com/ghpvc/?username=ynvk404&label=Profile%20Views&color=4CAF50&style=flat" alt="Profile views" />
