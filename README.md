@@ -2,7 +2,15 @@
 
 ###
 
-<div align="center"> <img height="200" src="https://avatars.githubusercontent.com/ynvk404" alt="ynvk404 avatar" /> </div>
+<div align="center">
+  <img 
+    height="200" 
+    src="https://avatars.githubusercontent.com/ynvk404" 
+    alt="ynvk404 avatar"
+    style="border-radius: 50%; border: 3px solid #4CAF50; box-shadow: 0 0 15px rgba(0,0,0,0.6);" 
+  />
+</div>
+
 
 
 ###
