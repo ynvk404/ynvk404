@@ -174,3 +174,12 @@
   </a>
   <p><i>Click the image to listen on YouTube</i></p>
 </div>
+
+###
+---
+
+<div align="center">
+  <p>💻 Crafted with passion for <b>Cybersecurity & Penetration Testing</b></p>
+  <p>© 2025 Nguyen Van Khai | 📍 Ha Noi</p>
+</div>
+
