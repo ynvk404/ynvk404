@@ -7,9 +7,10 @@
     height="200" 
     src="https://avatars.githubusercontent.com/ynvk404" 
     alt="ynvk404 avatar"
-    style="border-radius: 50%; border: 3px solid #4CAF50; box-shadow: 0 0 15px rgba(0,0,0,0.6);" 
+    style="border-radius:50%; border:4px solid #4CAF50; box-shadow:0 0 20px rgba(76,175,80,0.8); background-color:#111; padding:5px;" 
   />
 </div>
+
 
 
 
