@@ -2,14 +2,7 @@
 
 ###
 
-<div align="center">
-  <img 
-    src="https://avatars.githubusercontent.com/ynvk404" 
-    alt="ynvk404 avatar" 
-    height="200" 
-    style="border-radius: 50%; border: 3px solid #4CAF50; box-shadow: 0 0 15px rgba(0,0,0,0.5);" 
-  />
-</div>
+<div align="center"> <img height="200" src="https://avatars.githubusercontent.com/ynvk404" alt="ynvk404 avatar" /> </div>
 
 
 ###
