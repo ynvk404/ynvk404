@@ -1,10 +1,10 @@
 name: Generate snake animation
 
 on:
-  schedule: # execute every 12 hours
+  schedule: # chạy 2 lần/ngày
     - cron: "0 */12 * * *"
 
-  workflow_dispatch:
+  workflow_dispatch: # cho phép chạy thủ công
 
   push:
     branches:
