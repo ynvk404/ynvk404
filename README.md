@@ -8,7 +8,7 @@
 
 ###
 
-<h3 align="left">Name: Nguyen Van Khai  <br> Desired Position: Penetration Testing Intern</h3>
+<h3 align="center">Name: Nguyen Van Khai  <br> Desired Position: Penetration Testing Intern</h3>
 
 ###
 
