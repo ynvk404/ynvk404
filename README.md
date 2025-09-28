@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+  <img height="200" src="https://avatars.githubusercontent.com/ynvk404" alt="ynvk404 avatar" />
 </div>
 
 ###
