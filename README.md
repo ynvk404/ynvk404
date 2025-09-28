@@ -163,14 +163,6 @@
 
 
 ###
-<div align="center">
-  <h2>🎵 Now Playing</h2>
-  <a href="https://open.spotify.com/playlist/37i9dQZF1DX5q67ZpWyRrZ" target="_blank">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31eq...&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify" />
-  </a>
-</div>
-
-###
 <h2 align="center">🎶 Favourite Song</h2>
 
 <div align="center">
