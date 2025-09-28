@@ -110,15 +110,24 @@
 <h4 align="left">✅ Solved 90% of PortSwigger Web Security Academy labs  <br>🏅 Ranked in the Top 3% on TryHackMe  <br>🗄️ Database Security in Web Applications  <br>🔎 SQL Injection Testing in Web Applications  <br>🛡️ Network Intrusion Detection and Prevention using Suricata with ELK Stack</h4>
 
 ###
+<h2 align="left">🌐 Social & Profiles</h2>
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/tryhackme/default.svg" width="52" height="40" alt="tryhackme logo"  />
+  <a href="https://www.facebook.com/young.nvk" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo" />
+  </a>
+  
+  <a href="https://www.instagram.com/young.nvk/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" />
+  </a>
+  
+  <a href="https://tryhackme.com/p/ynvk404" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/tryhackme/default.svg" width="52" height="40" alt="tryhackme logo" />
+  </a>
+  
+  <a href="https://www.topcv.vn/xem-cv/D1oCAFUAAQNSXQdXU1BVAAVbBwRRAlUAVAIGUw07dd" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Logo_TopCV_no_slogan.png" width="52" height="40" alt="TopCV logo" />
+  </a>
 </div>
 
 ###
