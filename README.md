@@ -169,7 +169,7 @@
 <h2 align="center">🎶 Favourite Song</h2>
 
 <div align="center">
-  <a href="https://www.youtube.com/watch?v=s7Qe7OJvgOU&list=RDs7Qe7OJvgOU&start_radio=1" target="_blank">
+  <a href="https://www.youtube.com/watch?v=Skp1uAFHang&list=RDs7Qe7OJvgOU&index=2" target="_blank">
     <img src="https://img.youtube.com/vi/s7Qe7OJvgOU/maxresdefault.jpg" 
          width="480" 
          alt="Favourite Song on YouTube" 
