@@ -170,7 +170,7 @@
 
 <div align="center">
   <a href="https://www.youtube.com/watch?v=Skp1uAFHang&list=RDs7Qe7OJvgOU&index=2" target="_blank">
-    <img src="https://img.youtube.com/vi/s7Qe7OJvgOU/maxresdefault.jpg" 
+    <img src="https://img.youtube.com/vi/Skp1uAFHang/maxresdefault.jpg" 
          width="480" 
          alt="Favourite Song on YouTube" 
          style="border-radius:12px; box-shadow:0 4px 15px rgba(0,0,0,0.4);" />
